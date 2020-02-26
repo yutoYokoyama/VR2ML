@@ -1,45 +1,49 @@
-<<[長尾研ホームページトップへ](http://www.nagao.nuie.nagoya-u.ac.jp)
+<<[Nagao Lab homepage top](http://www.nagao.nuie.nagoya-u.ac.jp)
 # **VRecTop**
 
-長尾研究室 VR2MLページへようこそ
+Welcome to Nagao Lab VR2ML page
+
+日本語は[こちら](./japanese/index.html)
 
 ## **説明**
 ---
 <br>
-本ページはVR2MLに関するリファレンスとそのリソースを提供するページです。
+This page provides a reference and resources about VR2ML.
 
-VR2MLは[VRec](http://rwdc.nagao.nuie.nagoya-u.ac.jp/vrec/)を使って記録したVRの行動を解析・学習するためのライブラリです。<br>
-主にUnityで用いられることを想定しています。<br>
+VR2ML is a library for analyzing and learning VR behavior recorded using [VRec](http://rwdc.nagao.nuie.nagoya-u.ac.jp/vrec/).<br>
+It is mainly intended for use in Unity. <br>
 
 
 
-## **利用規約**
+## **Terms of service**
 ---
-本大学および本研究室は，本サービスを利用することによって生じたいかなる損害・不利益等を補償しません．<br>
+Nagoya University and Nagao laboratory do not compensate for any damages or disadvantages caused by using this service.<br>
 
-## **動作確認環境**
+## **Environment**
 ---
 - Unity 5.6.3～2018.2
     - .NET 3.5
 - OS    Windows10
 
-## **リソースリンク**
+## **Link**
 ---
 - [GitHub](https://github.com/yutoYokoyama/VR2ML)
-    - ライブラリファイルなどのリソースファイルはこちら
-- [リファレンス](./vr2ml.html)
-    - 詳しい使い方などはこちら
+    - resource files such as library files
+- [Reference](./vr2ml.md)
+    - detailed usage
 
 <br>
 
-## **連絡先**
+## **Contact**
 ---
-名古屋大学<br>
-情報学研究科<br>
-知能システム学専攻<br>
-長尾研究室所属<br>
-横山勇斗<br>
+Nagoya University <br>
+Graduate School of Informatics <br>
+Department of Intelligent Systems <br>
+Nagao Lab.<br>
+Yuto Yokoyama<br>
 yokoyama@nagao.nuie.nagoya-u.ac.jp<br>
 Twitter: [@yuto_onizakura](https://twitter.com/yuto_onizakura)<br>
 
+Copyright © 2017-2020 Nagao Laboratory of Nagoya Univerisity.
+All Rights Reserved.
 <br>
